@@ -1,5 +1,4 @@
-# spring-2022-GR5291-Project
-## Stroke prediction
+# GR5291 – Project: Stroke Prediction
 
 ### [Full Project Description](doc/project_desc.md)
 
